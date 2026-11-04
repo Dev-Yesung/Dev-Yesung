@@ -9,6 +9,7 @@
 ### Frameworks & Libraries
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![gRPC](https://img.shields.io/badge/grpc-%2324496B.svg?style=for-the-badge&logo=grpc&logoColor=white)
 
 ### Database & Messaging
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
